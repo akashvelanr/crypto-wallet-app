@@ -11,6 +11,18 @@ The Crypto Wallet App is a Flutter application designed to help users manage the
 - **Send and Receive Cryptocurrencies**: Users can send and receive cryptocurrencies using their wallet.
 - **User-friendly Interface**: Easy-to-use interface for managing cryptocurrency transactions.
 
+## Screenshots
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+
+  <img src="https://github.com/user-attachments/assets/ff5bfe62-ca9e-4aaf-918b-670c93012588" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/92789949-cfde-40eb-bd53-4550d0406bba" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/7865d5d2-ff05-4c67-ba3b-465dd88dca51" alt="Screenshot 3" width="200" />
+  <img src="https://github.com/user-attachments/assets/a16a0919-5138-4682-bd42-5d24e2aaf892" alt="Screenshot 4" width="200" />
+
+</div>
+
+
 ## Tools and Libraries Used
 
 - **Flutter**: The main framework used for developing the app.
